@@ -1,1 +1,1 @@
-# Thinkoutofthebox
+# Python-Miniprojects
